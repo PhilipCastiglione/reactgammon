@@ -30,7 +30,7 @@ game
             used: boolean
           }
         ],
-        activePlayer: boolean
+        activePlayer: number
       },
       game: {
         stake: number,
