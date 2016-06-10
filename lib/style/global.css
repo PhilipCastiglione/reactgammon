@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  text-align: center;
+}
+
+section {
+  border: 1px solid black;
+}
+
+.player {
+  display: inline-block;
+  width: 50%;
+  text-align: center;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.split {
+  text-align: center;
+  position: absolute;
+  top: 30%;
+  width: 100%;
+}
+
+.split span {
+  padding: 40px;
+}
+
+.button {
+  text-align: center;
+}
+
+.white {
+  color: linen;
+}
+
+.black {
+  color: black;
+}
+
+.red {
+  color: red;
+}
+
+.stake { 
+  text-align: center;
+}
