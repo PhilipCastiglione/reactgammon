@@ -30,7 +30,8 @@ game
             used: boolean
           }
         ],
-        activePlayer: number
+        activePlayer: number,
+        selectedChecker: number
       },
       game: {
         stake: number,
