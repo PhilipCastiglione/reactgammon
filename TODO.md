@@ -65,3 +65,11 @@ move
 game
 - DOUBLE_STAKE(player)
 
+
+## Remaining game logic to implement
+refactor play to use messagebox
+winning rules (use messagebox)
+doubling stake
+stake, wins
+difficult finishing rules
+double no valid move edge case draw
