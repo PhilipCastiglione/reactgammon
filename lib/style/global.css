@@ -56,3 +56,11 @@ section {
 .stake { 
   text-align: center;
 }
+
+.selected {
+  background: yellow;
+}
+
+.targeted {
+  background: green;
+}
